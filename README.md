@@ -184,6 +184,10 @@
 
 ![Cheo](https://github.com/user-attachments/assets/e1b6dfa2-56e5-4367-9697-dfa29487fcc4)
 
+## Este es el ZIP File
+
+Los scripts duplicados no están comentados, si no que los comentarios se encuentran en el código original.
+
 ## Opiniones Personales del proyecto
 
 ## Sebastián Negrón:
